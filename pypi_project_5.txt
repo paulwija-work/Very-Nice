@@ -1,0 +1,10 @@
+owasp-skf==1.3.8
+ccxt==1.9.184
+pydemia==0.1.6
+zope.minmax==2.2.0
+reprozip-jupyter==1.0.14
+GeoNode==2.4b28
+ccxt==1.10.924
+pyocd==0.11.2
+coala==0.4.1.dev20160203164308
+setlr==0.2.10
